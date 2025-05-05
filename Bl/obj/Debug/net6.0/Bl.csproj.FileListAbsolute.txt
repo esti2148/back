@@ -1,0 +1,45 @@
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\bin\Debug\net6.0\Bl.deps.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\bin\Debug\net6.0\Bl.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\bin\Debug\net6.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\bin\Debug\net6.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\bin\Debug\net6.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\refint\Bl.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Bl\obj\Debug\net6.0\ref\Bl.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\bin\Debug\net6.0\Bl.deps.json
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\bin\Debug\net6.0\Bl.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\bin\Debug\net6.0\Bl.pdb
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\bin\Debug\net6.0\Dal.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\bin\Debug\net6.0\Dal.pdb
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\refint\Bl.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\Bl.pdb
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Bl\obj\Debug\net6.0\ref\Bl.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\bin\Debug\net6.0\Bl.deps.json
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\bin\Debug\net6.0\Bl.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\bin\Debug\net6.0\Bl.pdb
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\bin\Debug\net6.0\Dal.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\bin\Debug\net6.0\Dal.pdb
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\refint\Bl.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\Bl.pdb
+D:\בסד אסתי נחמי וחני\c\Uniform\Bl\obj\Debug\net6.0\ref\Bl.dll

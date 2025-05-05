@@ -1,0 +1,42 @@
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\bin\Debug\net6.0\Dal.deps.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\bin\Debug\net6.0\Dal.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\bin\Debug\net6.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\bin\Debug\net6.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\refint\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\Dal.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\בסד פרויקט נחמי ואסתי\c#\Uniform\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\bin\Debug\net6.0\Dal.runtimeconfig.json
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\bin\Debug\net6.0\Dal.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\bin\Debug\net6.0\Dal.pdb
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.pdb
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\Dal.genruntimeconfig.cache
+D:\בס'ד אסתי נחמי וחני\c#\Uniform\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\bin\Debug\net6.0\Dal.runtimeconfig.json
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\bin\Debug\net6.0\Dal.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\bin\Debug\net6.0\Dal.pdb
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.pdb
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\Dal.genruntimeconfig.cache
+D:\בסד אסתי נחמי וחני\c\Uniform\Dal\obj\Debug\net6.0\ref\Dal.dll
